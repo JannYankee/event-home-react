@@ -85,3 +85,14 @@
 .cart-btn.in-cart {
   color: green;
 }
+.add-form {
+  margin: 20px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.add-form input, .add-form button {
+  padding: 10px;
+  font-size: 16px;
+}
